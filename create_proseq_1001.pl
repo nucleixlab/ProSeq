@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 # Create *_proseq_1001.txt
-# written by : Aditya Date : 8th june 2011
+# written by : Aditya
 $ncbi_file = "list_ncbi_id";
 $ncbi_count = 0;
 open(NCBI,"$ncbi_file");
